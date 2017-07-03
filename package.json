@@ -1,6 +1,6 @@
 {
   "name": "generator-h5-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.10",
   "description": "A simple H5 generator",
   "main": "generators/app/index.js",
   "directories": {
