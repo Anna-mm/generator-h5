@@ -1,7 +1,7 @@
 {
-  "name": "generator-h5",
+  "name": "generator-h5-boilerplate",
   "version": "1.0.0",
-  "description": "A simple H5 template",
+  "description": "A simple H5 generator",
   "main": "generators/app/index.js",
   "directories": {
     "doc": "docs"
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/Anna-mm/generator-h5.git"
   },
-  "keywords": [yeoman-generator],
-  "author": "Anna-mm",
+  "keywords": ["yeoman-generator"],
+  "author": "generator-h5",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Anna-mm/generator-h5/issues"
